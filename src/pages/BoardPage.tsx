@@ -9,7 +9,7 @@ import { formatTicketLabel } from '../utils/tickets';
 import { useSocketTicket } from '../hooks/useSocketTicket';
 import type { ServerMessage } from '../types/socket.types';
 
-const YOUTUBE_VIDEO_ID = 'dQw4w9WgXcQ';
+const YOUTUBE_VIDEO_ID = 'p7liQk45fFk';
 
 function getWeatherConfigFromEnv(): {
   latitude: number;
